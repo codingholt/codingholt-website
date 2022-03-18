@@ -12,7 +12,7 @@ function App() {
         <Link 
         link='https://twitter.com/traderholt'
         linkName='@traderholt'
-        linkText='Twitter Acc mainly crypto stuff'/>
+        linkText='Twitter account mainly crypto stuff'/>
         <Link 
         link='https://github.com/codingholt'
         linkName='@codingholt'
