@@ -1,24 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import 'terminal.css';
+import Header from './components/Header';
+import Link from './components/Link';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container">
+      <Header/>
+      <h2>Useful Links</h2>
+      <div className='links'>
+        <Link 
+        link='https://twitter.com/traderholt'
+        linkName='@traderholt'
+        linkText='Twitter Acc mainly crypto stuff'/>
+        <Link 
+        link='https://github.com/codingholt'
+        linkName='@codingholt'
+        linkText='Github account so you can see my shitty code'/>
     </div>
+
+</div>
   );
 }
 
