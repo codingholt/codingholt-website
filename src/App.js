@@ -7,7 +7,22 @@ function App() {
   return (
     <div className="container">
       <Header/>
-      <h2>Useful Links</h2>
+
+      <h2>Projects</h2>
+      <div className='links'>
+        <Link 
+          link='https://openbook-solana.vercel.app'
+          linkName='📖 Open Book'
+          linkText='My first web3 project! Everyone can write something in the web3 book✨'
+        />
+           <Link 
+          link='https://github.com/codingholt/CoinGecko-CLI'
+          linkName='️💻 CoinGecko-CLI'
+          linkText='Query everything from coingecko right in your command line'
+        />
+      </div>
+    <p></p>
+      <h2>Social Links</h2>
       <div className='links'>
         <Link 
         link='https://twitter.com/traderholt'
