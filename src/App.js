@@ -16,7 +16,7 @@ function App() {
           linkText='My first web3 project! Everyone can write something in the web3 book✨'
         />
            <Link 
-          link='https://github.com/codingholt/CoinGecko-CLI'
+          link='https://coingecko-cli.vercel.app/'
           linkName='️💻 CoinGecko-CLI'
           linkText='Query everything from coingecko right in your command line'
         />
