@@ -20,6 +20,11 @@ function App() {
           linkName='️💻 CoinGecko-CLI'
           linkText='Query everything from coingecko right in your command line'
         />
+          <Link 
+          link='https://randomdoggo.vercel.app/'
+          linkName='️🐶 Random Dogoo'
+          linkText='Display a random image of a dog'
+        />
       </div>
     <p></p>
       <h2>Social Links</h2>
