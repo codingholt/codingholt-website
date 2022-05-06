@@ -25,6 +25,11 @@ function App() {
           linkName='️🐶 Random Dogoo'
           linkText='Display a random image of a dog'
         />
+           <Link 
+          link='https://kenmerkende-aspecten.vercel.app/'
+          linkName='️🗒️ Leer de kenmerkende aspecten'
+          linkText='(Dutch) Een app die ik gemaakt heb om de kenmerkende aspecten te leren voor mijn geschiedenis examen.'
+        />
       </div>
     <p></p>
       <h2>Social Links</h2>
