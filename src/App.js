@@ -22,7 +22,7 @@ function App() {
         />
           <Link 
           link='https://randomdoggo.vercel.app/'
-          linkName='️🐶 Random Dogoo'
+          linkName='️🐶 Random Doggo'
           linkText='Display a random image of a dog'
         />
            <Link 
