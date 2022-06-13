@@ -30,6 +30,11 @@ function App() {
           linkName='️🗒️ Leer de kenmerkende aspecten'
           linkText='(Dutch) Een app die ik gemaakt heb om de kenmerkende aspecten te leren voor mijn geschiedenis examen.'
         />
+          <Link
+            link='https://self-driving-js.vercel.app/'
+            linkName='🚙 Self driving car'
+            linkText='A self driving car simulation made with help of a youtube course'
+          />
       </div>
     <p></p>
       <h2>Social Links</h2>
